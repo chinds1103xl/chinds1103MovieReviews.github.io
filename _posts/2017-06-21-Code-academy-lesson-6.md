@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td> Once more my three step process was in action so I was fast and efficient for the period of time that I was learning using codecademy. For the second half of the lesson when we were looking at our blogs I just learned by seeing other people's blogs (though only the ones that are better than mine) and then what I was told by Mr Ampah-Korsah. ![image alt text]({{ site.url }}/public/z7oGJjdQ0c5RgrK8tekzzg_img_0.jpg) </td>
+    <td> Once more my three step process was in action so I was fast and efficient for the period of time that I was learning using codecademy. For the second half of the lesson when we were looking at our blogs I just learned by seeing other people's blogs (though only the ones that are better than mine) and then what I was told by Mr Ampah-Korsah. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
