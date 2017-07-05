@@ -42,6 +42,8 @@ published: true
   </tr>
   <tr>
     <td>   This lesson my learning was swift and efficient. I learnt once more using my brilliant 3 step process which I do believe has been picked up by some of my friends in my class and I think their learning has improved just as much as mine. If you are confused by what my three step process is go back to a few of my previous posts. I think the third codecademy lesson is the one where I first mention it. This strategy was of course efficient as it managed to get me rocketed through the syllabus and past the halfway mark.
+    <img src= "https://github.com/ironjedibat123/ironjedibat123.github.io/blob/master/images/Screen%20Shot%202017-07-05%20at%2011.53.06.png?raw=true">
+    
 </td>
   </tr>
   <tr>
