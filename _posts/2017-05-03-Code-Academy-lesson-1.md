@@ -41,7 +41,9 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>This lesson I worked well I feel as I managed to beat my goal for the lesson and my learning startegy was very effective as it was simply to follow whatever I was told to by the panel on the left of the screen and tis allowed for me to simply plow through the work with ease. The work this lesson was also very easy which helped alot.</td>
+    <td>This lesson I worked well I feel as I managed to beat my goal for the lesson and my learning startegy was very effective as it was simply to follow whatever I was told to by the panel on the left of the screen and tis allowed for me to simply plow through the work with ease. The work this lesson was also very easy which helped alot.
+    <img src="https://github.com/ironjedibat123/ironjedibat123.github.io/blob/master/IMG_1179.PNG?raw=true">
+    </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
