@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Learning python. Further work on PYG python and functions.</td>
     <td>Date</td>
-    <td>16/5/17</td>
+    <td>31/5/17</td>
   </tr>
 </table>
 
