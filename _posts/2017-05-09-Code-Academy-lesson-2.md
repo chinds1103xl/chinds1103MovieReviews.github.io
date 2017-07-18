@@ -20,7 +20,6 @@ published: true
   <tr>
     <td>Starting point:</td>
     <td>14% of the Python syllabus </td>
-      <img src= "https://github.com/ironjedibat123/ironjedibat123.github.io/blob/master/IMG_1173.PNG?raw=true">
   </tr>
   <tr>
     <td>Target for this lesson?</td>
