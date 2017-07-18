@@ -20,6 +20,7 @@ published: true
   <tr>
     <td>Starting point:</td>
     <td>14% of the Python syllabus </td>
+      <img src= "https://github.com/ironjedibat123/ironjedibat123.github.io/blob/master/IMG_1173.PNG?raw=true">
   </tr>
   <tr>
     <td>Target for this lesson?</td>
@@ -42,6 +43,7 @@ published: true
   </tr>
   <tr>
     <td>This lesson I was ill and had to do it all in catch-up which is what I spent my Wednesday evening doing. In catch-up I worked by reading all that I was given by the website thoroughly this allowed me to learn thourougly. </td>
+     <img src= "https://github.com/ironjedibat123/ironjedibat123.github.io/blob/master/IMG_1173.PNG?raw=true">
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
