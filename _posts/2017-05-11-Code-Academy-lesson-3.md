@@ -42,6 +42,7 @@ published: true
   </tr>
   <tr>
     <td> This lesson I worked the same as the last few weeks and this is clearly successful as my ability to code has been getting better and better. I can tell this is happening because although the work I can see is clearly more difficult yet the ease of work has been consistent lesson to lesson.</td>
+    <img src= "https://github.com/ironjedibat123/ironjedibat123.github.io/blob/master/IMG_1175.PNG?raw=true">
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
