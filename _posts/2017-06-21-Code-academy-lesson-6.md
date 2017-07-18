@@ -42,6 +42,7 @@ published: true
   </tr>
   <tr>
     <td> Once more my three step process was in action so I was fast and efficient for the period of time that I was learning using codecademy. For the second half of the lesson when we were looking at our blogs I just learned by seeing other people's blogs (though only the ones that are better than mine) and then what I was told by Mr Ampah-Korsah. </td>
+    <img src= "https://github.com/ironjedibat123/ironjedibat123.github.io/blob/master/images/IMG_1228.PNG?raw=true">
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
