@@ -42,6 +42,7 @@ published: true
   </tr>
   <tr>
     <td>Once more I have used my three step process and it was very efficient. I worked well with this and it was very useful. My three step process has definitely been an efficient and industrious method towards working and learning using codecademy.</td>
+    <img src= "https://github.com/ironjedibat123/ironjedibat123.github.io/blob/master/IMG_1171.PNG?raw=true">
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
