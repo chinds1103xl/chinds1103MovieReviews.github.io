@@ -1,5 +1,5 @@
 ---
-title: Code Academy lesson 
+title: Code Academy lesson 9
 layout: post
 author: charlie.hinds
 permalink: /code-academy-lesson-9/
