@@ -42,6 +42,7 @@ published: true
   </tr>
   <tr>
     <td>   This lesson I worked hard and fast which was very efficient. This was because I pretty much ignored the rest of the class and just worked on my codecademy. Also we were not interrupted by Mr Ampah-Korsah and did not work on our blogs at all this lesson just on codecademy. This coupled with my amazing three step process allowed for my work to be both speedy and great for my learning.</td>
+    <img src= "https://github.com/ironjedibat123/ironjedibat123.github.io/blob/master/images/Lesson%209%20badge%20(2).png?raw=true">
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
