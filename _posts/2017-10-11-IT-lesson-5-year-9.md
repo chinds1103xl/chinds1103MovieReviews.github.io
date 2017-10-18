@@ -15,4 +15,8 @@ Challenging work.
    What hindered my work this lesson was very little to be honest as I didn't feel like my learning was hindered as it was all having to work things out from memory and trying to work out new facts and figure. 
 
    Next lesson (assuming the work is of the same difficulty as it was in this lesson) I will work differently by trying to approach the challenge differently and trying to refer back to my previous lessons and the work from them to be able to try and utilise that work instead of having to get everything worked out from square one. I could also try to work out with a few other people around me which I did a little bit in this lesson but I should  probably try and work with some others. This will allow us to try and combine our mental efforts allowing for the work to have been completed either correctly or to a much better degree than they have been at the moment.
+   
+   This is my google sheet if you wanted to know what it looked like
+   
+   <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLTQpuSAz4EoHYArQ_OZmmYjrTkQiWRxh_FXRurHylzug79zpnyaNCb-9k0-90XyHOShzH_s2hPiWg/pubhtml?widget=true&amp;headers=false"></iframe>
 
