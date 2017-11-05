@@ -18,3 +18,4 @@ Completely off topic
 
  This is what my google sheets looks like now with the profit and loss sheet completed.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLTQpuSAz4EoHYArQ_OZmmYjrTkQiWRxh_FXRurHylzug79zpnyaNCb-9k0-90XyHOShzH_s2hPiWg/pubhtml?widget=true&amp;headers=false"></iframe>
