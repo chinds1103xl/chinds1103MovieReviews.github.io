@@ -17,4 +17,7 @@ Confusing cover work
    This lesson there was little that prevented me from working well; I was persevering from all of my issues and problems that I had with my sheet, I was focussed and finished my work quickly and as well as this I helped some people with my work. Though for some reason there are people that haven't kept up with their work so they ask for help which in turn prevents me from working. 
 
    Next lesson if I don't really know how much I can change the way that I work but maybe I could try to work with other people to try and excel my working.
+   
+  This is the current look at my blog.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSdKL_bubwJz2WUaXqvTZMTShkAUjgmXY0mLNZsMPqP9Yqtr4jGQO5hwK-PDxbQBLkd6FQohzyGf4Gz/pubhtml?widget=true&amp;headers=false"></iframe>
